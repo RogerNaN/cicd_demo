@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: argo-demo
-          image: your-docker-hub-username/argo-demo:latest //////////////////////////
+          image: roger159/argo-demo:latest
           ports:
             - containerPort: 5000
 ---
